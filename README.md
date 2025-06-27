@@ -2,8 +2,7 @@
 - 👀 I’m interested in Data Science and making the way we do it just
 - 🌱 I’m currently learning entity disambiguation, GPT4, BERT, Spacy-llm, llama and just love language, ya know?
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me 🐦 I left twitter because I gave it everything also and including the kitchen sink and got nothing but ire and loathing out of it
-- Cryptography too!
+- 📫 How to reach me 🐦 jpg88@georgetown.edu
 
 <!---
 joegr/joegr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
